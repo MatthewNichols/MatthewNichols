@@ -4,8 +4,8 @@
 
 - I am a (software/science/sci-fi/space/history) geek. 
 
-- I am a Coloradan living in Gibraltar, the lovely and tiny British overseas territory on the southern tip of the Iberian pennisula
-![Gibraltar seen from the airport](MatthewNichols/blob/master/GibraltarFromAirport.jpg)
+- I am a Coloradan living in Gibraltar, the lovely and tiny British overseas territory on the southern tip of the Iberian pennisula.
+<img src="https://raw.githubusercontent.com/MatthewNichols/MatthewNichols/master/GibraltarFromAirport.jpg" alt="Gibraltar seen from the airport" />
 
 - Veteran software developer, mostly on the web. I love Javascript/Typescript, C# and I think Vue, VSCode and WSL are stunningly cool. I am intrigued by Python, WASM and Rust but am still pretty new at them.
 
